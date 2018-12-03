@@ -6,7 +6,7 @@ namespace AdventOfCodeCSharp
     {
         static void Main(string[] args)
         {
-            Day2.ExerciseTwo();
+            Day3.ExerciseOne();
         }
     }
 }
